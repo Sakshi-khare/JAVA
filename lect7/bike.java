@@ -1,5 +1,5 @@
 // classes and object
-public class Car {
+public class bike {
     String name = "hiii";
 
     void display() {
@@ -7,7 +7,7 @@ public class Car {
     }
 
     public static void main(String[] args) {
-        Car obj = new Car();
+        bike obj = new bike();
         obj.display(); //
     }
 }
